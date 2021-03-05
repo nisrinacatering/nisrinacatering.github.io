@@ -3,4 +3,4 @@
 ## Nisrina Catering Center
 ### Responsive Website Restaurant
 
-Pilih menu sesuka dan order dikami kapan pun kamu mau
+Pilih menu sesuka kamu dan order di kami kapan pun kamu mau
